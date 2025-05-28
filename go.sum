@@ -26,6 +26,8 @@ github.com/GoogleCloudPlatform/k8s-cloud-provider v1.33.0 h1:eOjh0y9dIIZbCc1Ycf3
 github.com/GoogleCloudPlatform/k8s-cloud-provider v1.33.0/go.mod h1:o5jNXLZ3JSgVv+mR2PFp7syFS3DGi6DlzMDwi928YJA=
 github.com/GoogleCloudPlatform/k8s-cloud-provider v1.33.1-0.20250415230423-e163b5046626 h1:daSMzenNP0+MsgMOmmLm2oFJKZOVJpwyNmb45nugnRc=
 github.com/GoogleCloudPlatform/k8s-cloud-provider v1.33.1-0.20250415230423-e163b5046626/go.mod h1:Zl1a9zE67QrQpwIib8BlF7mv7FAVXQwJDKD6rAQk/jw=
+github.com/GoogleCloudPlatform/k8s-cloud-provider v1.34.0 h1:QoaPZxsKBqKlIAwQSUJgiXlhz1Nu+Y1DgGqR7GV2uIA=
+github.com/GoogleCloudPlatform/k8s-cloud-provider v1.34.0/go.mod h1:Zl1a9zE67QrQpwIib8BlF7mv7FAVXQwJDKD6rAQk/jw=
 github.com/MakeNowJust/heredoc v1.0.0 h1:cXCdzVdstXyiTqTvfqk9SDHpKNjxuom+DOlyEeQ4pzQ=
 github.com/MakeNowJust/heredoc v1.0.0/go.mod h1:mG5amYoWBHf8vpLOuehzbGGw0EHxpZZ6lCpQ4fNJ8LE=
 github.com/Masterminds/goutils v1.1.1 h1:5nUrii3FMTL5diU80unEVvNevw1nH4+ZV4DSLVJLSYI=
